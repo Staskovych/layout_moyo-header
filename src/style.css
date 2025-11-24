@@ -70,8 +70,7 @@ body {
 }
 
 @media (max-width: 1024px) {
-  .header {
-    width: 1024px;
-    height: 60px;
+  .nav__item {
+    margin-left: 20px;
   }
 }
